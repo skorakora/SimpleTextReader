@@ -1,0 +1,2 @@
+onnxruntime==1.15.0
+phonemizer==2.2.1
